@@ -1,0 +1,11 @@
+insert into predaje values ('N1', 'P1', 3);
+insert into predaje values ('N1', 'P2', 2);
+insert into predaje values ('N4', 'P4', 3);
+insert into predaje values ('N5', 'P5', 3);
+insert into predaje values ('N3', 'P3', 2);
+insert into predaje values ('N4', 'P5', 2);
+insert into predaje values ('N5', 'P4', 4);
+insert into predaje values ('N1', 'P3', 1);
+insert into predaje values ('N1', 'P4', 2);
+insert into predaje values ('N1', 'P5', 2);
+commit;
